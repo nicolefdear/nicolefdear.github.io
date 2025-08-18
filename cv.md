@@ -60,12 +60,17 @@ Michigan State University, East Lansing, MI
 - GEO 866: Spatial Data Analysis (In-person), Lab Instructor Fall 2022
 
 ## HONORS AND AWARDS
-- University Distinguished Fellowship (Michigan State University)
-- Early Start Award (Michigan State University)
-- Dean’s Scholarship Award (University of Michigan School of Public Health)
-- Dean’s Research Opportunity Award (University of Michigan School of Public Health)
-- Summer Biomedical & Life Sciences Fellowship (University of Michigan)
-- William J. Branstrom Freshman Prize (University of Michigan)
+Michigan State University
+- University Distinguished Fellowship
+- Early Start Award
+
+University of Michigan School of Public Health
+- Dean’s Scholarship Award
+- Dean’s Research Opportunity Award
+
+University of Michigan
+- Summer Biomedical & Life Sciences Fellowship
+- William J. Branstrom Freshman Prize
 
 
 
