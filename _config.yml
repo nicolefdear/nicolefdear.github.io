@@ -1,6 +1,6 @@
 title: "Hi, I'm Nicole"
 author: "Nicole D"
-description: "Epidemiologist and Health Geographer"
+description: "Personal website and CV"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,13 +18,13 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
+  - {file: "CV.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "dearnico@msu.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:dearnico@msu.edu"}
   - {title: Github, icon: github, url: "https://github.com/nicolefdear"}
-  - {title: Linkedin, icon: linkedin, url: "www.linkedin.com/in/nicoledear"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/nicoledear/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
