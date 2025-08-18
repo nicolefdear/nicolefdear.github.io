@@ -47,21 +47,21 @@ PHI/CDC Global Health Surveillance Fellow (September 2016 – August 2018)
 
 ## TEACHING EXPERIENCE
 Michigan State University, East Lansing, MI
-onGEO Professional Certificate: GEO113 (Economic Geography) (Online), Instructor Summer (Session 2) 2025
-onGEO Professional Certificate: GIS325 (Geographic Information Systems); IGT325 (Introduction to Geospatial Technologies) (Online), Course Grader Summer (Session 1) 2025
-GEO 424: Advanced Remote Sensing (In-person), Lab Instructor Spring 2025
-onGEO Professional Certificate: GIS524 (Geographic Information Systems); IGT524 (Introduction to Geospatial Technologies); CART624 (Cartography) (Online), Course Grader			            			            Fall 2024
-ISS 310: People and Environment (Online), Instructor Fall 2023; Spring 2024
-GEO 325: Geographic Information Systems (Online), Instructor Spring 2023
-GEO 866: Spatial Data Analysis (In-person), Lab Instructor Fall 2022
+- GEO113 (Economic Geography) (Online), Instructor Summer (Session 2) 2025
+- GIS325 (Geographic Information Systems); IGT325 (Introduction to Geospatial Technologies) (Online), Course Grader Summer (Session 1) 2025
+- GEO 424: Advanced Remote Sensing (In-person), Lab Instructor Spring 2025
+- GIS524 (Geographic Information Systems); IGT524 (Introduction to Geospatial Technologies); CART624 (Cartography) (Online), Course Grader Fall 2024
+- ISS 310: People and Environment (Online), Instructor Fall 2023; Spring 2024
+- GEO 325: Geographic Information Systems (Online), Instructor Spring 2023
+- GEO 866: Spatial Data Analysis (In-person), Lab Instructor Fall 2022
 
 ## HONORS AND AWARDS
-University Distinguished Fellowship (Michigan State University)
-Early Start Award (Michigan State University)
-Dean’s Scholarship Award (University of Michigan School of Public Health)
-Dean’s Research Opportunity Award (University of Michigan School of Public Health)
-Summer Biomedical & Life Sciences Fellowship (University of Michigan)
-William J. Branstrom Freshman Prize (University of Michigan)
+- University Distinguished Fellowship (Michigan State University)
+- Early Start Award (Michigan State University)
+- Dean’s Scholarship Award (University of Michigan School of Public Health)
+- Dean’s Research Opportunity Award (University of Michigan School of Public Health)
+- Summer Biomedical & Life Sciences Fellowship (University of Michigan)
+- William J. Branstrom Freshman Prize (University of Michigan)
 
 
 
