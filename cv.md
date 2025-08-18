@@ -8,13 +8,13 @@ layout: page
 
 **Michigan State University, East Lansing, MI**
 
-*PhD, Geography, Environment and Spatial Sciences (Expected 2026)*
+PhD, Geography, Environment and Spatial Sciences (Expected 2026)
 
 **University of Michigan, Ann Arbor, MI**
 
-*MPH, Global Health Epidemiology (May 2016)*
+MPH, Global Health Epidemiology (May 2016)
 
-*BS, Microbiology (May 2014)*
+BS, Microbiology (May 2014)
 
 ## RESEARCH EXPERIENCE
 ### Henry Jackson Foundation (in support of the Military HIV Research Program), Bethesda, MD/Remote
