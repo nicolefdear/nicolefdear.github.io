@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Hi, I'm Nicole"
+author: "Nicole D"
+description: "Epidemiologist and Health Geographer"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,9 +22,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "dearnico@msu.edu"}
+  - {title: Github, icon: github, url: "https://github.com/nicolefdear"}
+  - {title: Linkedin, icon: <i class="fab fa-linkedin"></i>, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
