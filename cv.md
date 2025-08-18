@@ -16,6 +16,7 @@ MPH, Global Health Epidemiology (May 2016)
 
 BS, Microbiology (May 2014)
 
+
 ## RESEARCH EXPERIENCE
 ### Henry Jackson Foundation (in support of the Military HIV Research Program), Bethesda, MD/Remote
 Biostatistician III (April 2022 – August 2022; January 2023 – December 2024)
@@ -49,8 +50,9 @@ PHI/CDC Global Health Surveillance Fellow (September 2016 – August 2018)
 - Coordinated logistics for Haiti’s first Population-based HIV Impact Assessment
 - Identified target areas for resource allocation after Hurricane Matthew by adapting a data collection tool in a post-disaster setting, analyzing and summarizing evidence-based findings
 
+
 ## TEACHING EXPERIENCE
-Michigan State University, East Lansing, MI
+**Michigan State University, East Lansing, MI**
 - GEO113 (Economic Geography) (Online), Instructor Summer (Session 2) 2025
 - GIS325 (Geographic Information Systems); IGT325 (Introduction to Geospatial Technologies) (Online), Course Grader Summer (Session 1) 2025
 - GEO 424: Advanced Remote Sensing (In-person), Lab Instructor Spring 2025
@@ -60,15 +62,15 @@ Michigan State University, East Lansing, MI
 - GEO 866: Spatial Data Analysis (In-person), Lab Instructor Fall 2022
 
 ## HONORS AND AWARDS
-Michigan State University
+**Michigan State University, East Lansing, MI**
 - University Distinguished Fellowship
 - Early Start Award
 
-University of Michigan School of Public Health
+**University of Michigan School of Public Health, Ann Arbor, MI**
 - Dean’s Scholarship Award
 - Dean’s Research Opportunity Award
 
-University of Michigan
+**University of Michigan, Ann Arbor, MI**
 - Summer Biomedical & Life Sciences Fellowship
 - William J. Branstrom Freshman Prize
 
