@@ -24,7 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "dearnico@msu.edu"}
   - {title: Github, icon: github, url: "https://github.com/nicolefdear"}
-  - {title: Linkedin, icon: <i class="fab fa-linkedin"></i>, url: "/feed.xml"}
+  - {title: Linkedin, icon: linkedin, url: "www.linkedin.com/in/nicoledear"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
