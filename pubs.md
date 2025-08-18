@@ -16,7 +16,12 @@ Dear N, Duff E, Esber A, Parikh A, Iroezindu M, et al. Transient Reductions in H
 Dear N, Kadangwe C, Mzilahowa T, Bauleni A, Mathanga DP, et al. Household-level and surrounding peri-domestic environmental characteristics associated with malaria vectors Anopheles arabiensis and Anopheles funestus along an urban-rural continuum in 
 Blantyre, Malawi. Malar J. 2018;17(1):229. doi: 10.1186/s12936-018-2375-5.
 
-Complete list: https://scholar.google.com/citations?user=Dj4m8eAAAAAJ&hl=en&oi=ao 
+Complete list: https://scholar.google.com/citations?user=Dj4m8eAAAAAJ&hl=en&oi=ao
+
+Check out my [Google Scholar Profile][complete-list] for the complete list of publications. If you have questions, or would like a pdf version, send me an email!
+
+[complete-list]: https://scholar.google.com/citations?user=Dj4m8eAAAAAJ&hl=en&oi=ao
+
 
 ## CONFERENCE PRESENTATIONS
 Dear N and Grady SC. COVID-19, place-based vulnerabilities, and maternal and infant health in Michigan. Oral Presentation. International Medical Geography Symposium (IMGS). July 2024.
@@ -32,7 +37,4 @@ Dear N, Esber A, Iroezindu M, et al. Factors Associated with Transactional Sex i
 Dear N, Esber A, Iroezindu M, et al. Routine HIV Clinic Appointment Adherence in the African Cohort Study. Poster. IAS, Virtual. July 2020.
 
 Dear N, Kadangwe C, Mzilahowa T, et al. Spatial Patterning and Fine-Scale Heterogeneity of Malaria Risk Along an Urban-Rural Continuum in Blantyre, Malawi. Poster. ASTMH, Baltimore, MD. November 2017.
-
-
-
 
