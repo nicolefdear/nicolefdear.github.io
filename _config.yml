@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "about.md", sidebaricon: address-card}
-  - {file: "NicoleDear_Resume.pdf", sidebaricon: home}
+  - {file: "cv.md", sidebaricon: home}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:dearnico@msu.edu"}
