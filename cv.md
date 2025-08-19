@@ -57,11 +57,11 @@ PHI/CDC Global Health Surveillance Fellow (September 2016 – August 2018)
 
 GEO113 (Economic Geography) (Online), Instructor Summer (Session 2) 2025
 
-GIS325 (Geographic Information Systems); IGT325 (Introduction to Geospatial Technologies) (Online), Course Grader Summer (Session 1) 2025
+GIS325 (Geographic Information Systems); IGT325 (Intro to Geospatial Technologies) (Online), Course Grader Summer (Session 1) 2025
 
 GEO 424: Advanced Remote Sensing (In-person), Lab Instructor Spring 2025
 
-GIS524 (Geographic Information Systems); IGT524 (Introduction to Geospatial Technologies); CART624 (Cartography) (Online), Course Grader Fall 2024
+GIS524 (Geographic Information Systems); IGT524 (Intro to Geospatial Technologies); CART624 (Cartography) (Online), Course Grader Fall 2024
 
 ISS 310: People and Environment (Online), Instructor Fall 2023; Spring 2024
 
