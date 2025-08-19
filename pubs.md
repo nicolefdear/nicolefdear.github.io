@@ -17,7 +17,7 @@ Dear N, Kadangwe C, Mzilahowa T, Bauleni A, Mathanga DP, et al. Household-level 
 Blantyre, Malawi. Malar J. 2018;17(1):229. doi: 10.1186/s12936-018-2375-5.
 
 
-Check out my [Google Scholar Profile][complete-list] for a complete list of publications. If you have questions or would like a pdf copy of any article, send me an email!
+Check out my [Google Scholar Profile][complete-list] for a complete list of publications. If you have questions or would like a pdf copy of any article, send me an email by clicking the envelope icon!
 
 [complete-list]: https://scholar.google.com/citations?user=Dj4m8eAAAAAJ&hl=en&oi=ao
 
