@@ -52,31 +52,50 @@ PHI/CDC Global Health Surveillance Fellow (September 2016 – August 2018)
 
 
 ## TEACHING EXPERIENCE
+
 **Michigan State University, East Lansing, MI**
-- GEO113 (Economic Geography) (Online), Instructor Summer (Session 2) 2025
-- GIS325 (Geographic Information Systems); IGT325 (Introduction to Geospatial Technologies) (Online), Course Grader Summer (Session 1) 2025
-- GEO 424: Advanced Remote Sensing (In-person), Lab Instructor Spring 2025
-- GIS524 (Geographic Information Systems); IGT524 (Introduction to Geospatial Technologies); CART624 (Cartography) (Online), Course Grader Fall 2024
-- ISS 310: People and Environment (Online), Instructor Fall 2023; Spring 2024
-- GEO 325: Geographic Information Systems (Online), Instructor Spring 2023
-- GEO 866: Spatial Data Analysis (In-person), Lab Instructor Fall 2022
+
+GEO113 (Economic Geography) (Online), Instructor Summer (Session 2) 2025
+
+GIS325 (Geographic Information Systems); IGT325 (Introduction to Geospatial Technologies) (Online), Course Grader Summer (Session 1) 2025
+
+GEO 424: Advanced Remote Sensing (In-person), Lab Instructor Spring 2025
+
+GIS524 (Geographic Information Systems); IGT524 (Introduction to Geospatial Technologies); CART624 (Cartography) (Online), Course Grader Fall 2024
+
+ISS 310: People and Environment (Online), Instructor Fall 2023; Spring 2024
+
+GEO 325: Geographic Information Systems (Online), Instructor Spring 2023
+
+GEO 866: Spatial Data Analysis (In-person), Lab Instructor Fall 2022
 
 ## HONORS AND AWARDS
+
 **Michigan State University, East Lansing, MI**
-- University Distinguished Fellowship
-- Early Start Award
+
+University Distinguished Fellowship
+
+Early Start Award
 
 **University of Michigan School of Public Health, Ann Arbor, MI**
-- Dean’s Scholarship Award
-- Dean’s Research Opportunity Award
+
+Dean’s Scholarship Award
+
+Dean’s Research Opportunity Award
 
 **University of Michigan, Ann Arbor, MI**
-- Summer Biomedical & Life Sciences Fellowship
-- William J. Branstrom Freshman Prize
+
+Summer Biomedical & Life Sciences Fellowship
+
+William J. Branstrom Freshman Prize
 
 ## SERVICE
+
 **Michigan State University, East Lansing, MI**
+
 President, Supporting Women in Geography (Fall 2024 – Spring 2025)
+
 Co-president, Supporting Women in Geography (Fall 2023 - Spring 2024)
+
 Communications Officer, Supporting Women in Geography (Fall 2022 - Spring 2023)
 
