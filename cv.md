@@ -74,5 +74,9 @@ PHI/CDC Global Health Surveillance Fellow (September 2016 – August 2018)
 - Summer Biomedical & Life Sciences Fellowship
 - William J. Branstrom Freshman Prize
 
-
+## SERVICE
+**Michigan State University, East Lansing, MI**
+President, Supporting Women in Geography (Fall 2024 – Spring 2025)
+Co-president, Supporting Women in Geography (Fall 2023 - Spring 2024)
+Communications Officer, Supporting Women in Geography (Fall 2022 - Spring 2023)
 
