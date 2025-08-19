@@ -18,8 +18,8 @@ Programming languages and software: Stata, SAS, R, ArcGIS, QGIS
 Analytic methods: multivariable statistical methods, linear regression, logistic regression, Poisson and negative binomial regression, mixed-effects models, GEE models, survival analysis, Random forests, point pattern analysis, geostatistics, space-time cluster analysis
 
 ## Getting Personal
-I began my academic career studying microbiology at the University of Michigan, initially with dreams of becoming a physican. In my junior year, I was unexpectedly captivated by a disease ecology class that taught me how the environment can play a pivotal role in disease dynamics and the uneven distribution of risk we often see. Spurred by a desire to create change on a larger scale and an aversion to blood, I decided to pursue a graduate program in epidemiology.
+I began my academic career studying microbiology at the University of Michigan, initially with dreams of becoming a physican. In my junior year, I was captivated by a disease ecology class that taught me how the environment can play a pivotal role in disease dynamics and the uneven distribution of risk we often see. Spurred by a desire to create change on a larger scale and an aversion to blood, I decided to pursue a graduate program in epidemiology.
 
-Since graduating with my MPH, I have worked on issues of public health importance, from HIV surveillance, to assessing user acceptable of menstrual cups in setting with limited access to fresh water, to better understanding the impacts of the COVID-19 pandemic on maternal health outcomes.
+Since graduating with my MPH, I have worked on issues of public health importance, from HIV surveillance, to assessing user acceptabilty of menstrual cups in setting with limited access to fresh water, to understanding effects of the COVID-19 pandemic on maternal health outcomes at the population-level.
 
-I am passionate about using spatial data and approaches to enhance our understanding of complex problems of public health importance and contribute to evidence-based practice and policy decisions.
+I am passionate about using spatial data and approaches to enhance our understanding of complex problems and contribute to evidence-based public health practice and policy decisions.
