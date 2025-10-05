@@ -55,6 +55,8 @@ PHI/CDC Global Health Surveillance Fellow (September 2016 – August 2018)
 
 **Michigan State University, East Lansing, MI**
 
+GEO 435: Geography of Health and Disease, "Maps and Methods", Guest Lecture 2 October, 2025
+
 GEO113 (Economic Geography) (Online), Instructor Summer (Session 2) 2025
 
 GIS325 (Geographic Information Systems); IGT325 (Intro to Geospatial Technologies) (Online), Course Grader Summer (Session 1) 2025
