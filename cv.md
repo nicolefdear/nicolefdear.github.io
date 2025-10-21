@@ -22,6 +22,7 @@ BS, Microbiology (May 2014)
 Biostatistician III (April 2022 – August 2022; January 2023 – December 2024)
 - Project oversight manager for an ongoing longitudinal cohort study in four African countries and a multi-country emerging infectious disease surveillance study
 - Conducted statistical analysis of data from cross-sectional studies, longitudinal cohort studies and clinical trials and communicated findings to scientific and non-technical audiences via written and oral modalities
+- Mentored junior analysts and clinical fellows in statistical methods, interpretation and scientific writing
 
 Biostatistician II (July 2019 – March 2022)
 - Conducted analysis of data from two cross-sectional pediatric HIV studies in Kenya and Tanzania, a prospective HIV incidence study in Thailand and a US-based cohort study to assess STI reinfection in a military population
